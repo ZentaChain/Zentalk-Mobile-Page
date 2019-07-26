@@ -1,0 +1,91 @@
+
+ul.slimmenu li a:hover,
+ul.slimmenu li a.mPS2id-highlight,
+.about-wrap .about-icon,
+.counter-wrap p,
+.des-programs-author.left p span,
+.des-programs-author.left .link,
+.des-programs-author.right p span,
+.des-programs-author.right .link,
+.services-wrap h5 span,
+.journal-det .link,
+.journal-det-right .link,
+.list-social-team li.icon-team a:hover,
+.project-page a:hover,
+.app-home-text a.button-video:hover:before,
+.title-text .icon,
+.title-text-button a.button:hover,
+.title-text-button a.button:after,
+.title-color {
+    color: #cfa144;
+}
+.menu--juliet .menu__link::after,
+#owl-sep-1.owl-theme .owl-controls .owl-page.active span,
+#owl-logos.owl-theme .owl-controls .owl-page.active span,
+#owl-gallery.owl-theme .owl-controls .owl-page.active span,
+#owl-portfolio-slider.owl-theme .owl-controls .owl-page.active span,
+.des-programs-author.left .link:before,
+.des-programs-author.right .link:before,
+.pricing-plan .button,
+.journal-det .link:before,
+.journal-det-right .link:before,
+.try-it .button--moema:first-child {
+	background: #cfa144;
+}
+#sync2 .synced .item {
+	background:#cfa144;
+}
+#cd-zoom-in, #cd-zoom-out,
+#ajax-form button:hover,
+.list-social-footer li:hover,
+.app-home-text a.button-effect:hover,
+.try-it a.button-effect:hover,
+.smk_accordion .accordion_in .acc_head:hover,
+.smk_accordion .accordion_in.acc_active > .acc_head{
+	background-color: #cfa144;
+}
+
+
+#ajax-form textarea:focus,
+#ajax-form input:focus,
+#ajax-form textarea:active,
+#ajax-form input:active {	
+	border-bottom:1px solid #cfa144;
+}
+::selection {
+	background: #cfa144;
+}
+::-moz-selection {
+	background: #cfa144;
+}
+
+@media only screen and (min-width: 1200px) {
+.journal-det{
+	border-right:3px solid #cfa144;
+}
+.journal-det-right{
+	border-left:3px solid #cfa144;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
