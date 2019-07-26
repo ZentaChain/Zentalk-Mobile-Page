@@ -30,10 +30,10 @@ ul.slimmenu li a.mPS2id-highlight,
 .journal-det .link:before,
 .journal-det-right .link:before,
 .try-it .button--moema:first-child {
-	background: #cfa144;
+   background: #cfa144;
 }
 #sync2 .synced .item {
-	background:#cfa144;
+   background:#cfa144;
 }
 #cd-zoom-in, #cd-zoom-out,
 #ajax-form button:hover,
@@ -42,7 +42,7 @@ ul.slimmenu li a.mPS2id-highlight,
 .try-it a.button-effect:hover,
 .smk_accordion .accordion_in .acc_head:hover,
 .smk_accordion .accordion_in.acc_active > .acc_head{
-	background-color: #cfa144;
+   background-color: #cfa144;
 }
 
 
@@ -53,39 +53,16 @@ ul.slimmenu li a.mPS2id-highlight,
 	border-bottom:1px solid #cfa144;
 }
 ::selection {
-	background: #cfa144;
+  background: #cfa144;
 }
 ::-moz-selection {
-	background: #cfa144;
+  background: #cfa144;
 }
 
 @media only screen and (min-width: 1200px) {
 .journal-det{
-	border-right:3px solid #cfa144;
+   border-right:3px solid #cfa144;
 }
 .journal-det-right{
-	border-left:3px solid #cfa144;
+   border-left:3px solid #cfa144;
 }
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
