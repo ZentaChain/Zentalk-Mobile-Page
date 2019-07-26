@@ -2,9 +2,9 @@
 	font-family: 'et-line';
 	src:url('font/et-line.eot');
 	src:url('font/et-line.eot?#iefix') format('embedded-opentype'),
-		url('font/et-line.woff') format('woff'),
-		url('font/et-line.ttf') format('truetype'),
-		url('font/et-line.svg#et-line') format('svg');
+	url('font/et-line.woff') format('woff'),
+	url('font/et-line.ttf') format('truetype'),
+	url('font/et-line.svg#et-line') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
