@@ -10,8 +10,8 @@
 
 /* Table of Contents
 ==================================================
-	#Base 1320 Grid
-	#Base 1200 Grid
+    #Base 1320 Grid
+    #Base 1200 Grid
     #Base 960 Grid
     #Tablet (Portrait)
     #Mobile (Portrait)
@@ -277,10 +277,10 @@
         .container .ten.columns,
         .container .eleven.columns,
         .container .twelve.columns,
-		.container .one-fifth.column,
-		.container .two-fifths.column,
-		.container .three-fifths.column, 
-		.container .four-fifths.column { width: 300px; }
+	.container .one-fifth.column,
+	.container .two-fifths.column,
+	.container .three-fifths.column, 
+	.container .four-fifths.column { width: 300px; }
 
         /* Offsets */
         .container .offset-by-one,
@@ -319,10 +319,10 @@
         .container .nine.columns,
         .container .ten.columns,
         .container .eleven.columns,
-		.container .one-fifth.column,
-		.container .two-fifths.column,
-		.container .three-fifths.column, 
-		.container .four-fifths.column { width: 220px; }
+	.container .one-fifth.column,
+	.container .two-fifths.column,
+	.container .three-fifths.column, 
+	.container .four-fifths.column { width: 220px; }
 
         /* Offsets */
         .container .offset-by-one,
@@ -364,7 +364,6 @@
     .clearfix {
       zoom: 1; }
 
-    /* You can also use a <br class="clear" /> to clear columns */
     .clear {
       clear: both;
       display: block;
