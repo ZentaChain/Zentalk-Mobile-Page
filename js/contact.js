@@ -1,4 +1,3 @@
-	
 jQuery(document).ready(function ($) { // wait until the document is ready
 	$('#send').click(function(){ // when the button is clicked the code executes
 		$('.error').fadeOut('slow'); // reset the error messages (hides them)
